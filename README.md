@@ -5,10 +5,11 @@
 - 🌱 Estudando JavaScript.
 - 😄 Pronouns: ele/dele
 
-<div>
-  <a href="https://github.com/Josue-07/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Josue-07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josue-07&layout=compact&langs_count=16&theme=tokyonight"/>
+<div style="display: inline_block"><br>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josue-07&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josue-07&layout=compact&theme=tokyonight))](https://github.com/Josue-07/github-readme-stats)
+
 </div>
   
   
