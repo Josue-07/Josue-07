@@ -11,13 +11,20 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josue-07&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
   
-  <div style="display: inline_block"><br>
+  
+#### Stack de Tecnologias 
+<div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg">
   <img align="center" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg">
   <img align="center" height="30" width="40" src="https://github.com/rest-assured/rest-assured.github.io/blob/master/img/logo-transparent.png">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/junit-team/junit5/blob/86465f4f491219ad0c0cf9c64eddca7b0edeb86f/assets/img/junit5-logo.svg">
+  <img align="center" height="30" width="40" src="https://github.com/junit-team/junit5/blob/86465f4f491219ad0c0cf9c64eddca7b0edeb86f/assets/img/junit5-logo.svg">
    <img align="center" height="30" width="40" src="https://github.com/Kong/insomnia-design-assets/blob/master/export/Icon.svg">
    <img align="center" height="30" width="40" src="https://github.com/flathub/com.getpostman.Postman/blob/master/logo-mark.svg">    
 
