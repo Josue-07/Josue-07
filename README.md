@@ -14,19 +14,19 @@
   
 #### Stack de Tecnologias 
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg">
-  <img align="center" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg">
-  <img align="center" height="30" width="40" src="https://github.com/rest-assured/rest-assured.github.io/blob/master/img/logo-transparent.png">
-  <img align="center" height="30" width="40" src="https://github.com/junit-team/junit5/blob/86465f4f491219ad0c0cf9c64eddca7b0edeb86f/assets/img/junit5-logo.svg">
-   <img align="center" height="30" width="40" src="https://github.com/Kong/insomnia-design-assets/blob/master/export/Icon.svg">
-   <img align="center" height="30" width="40" src="https://github.com/flathub/com.getpostman.Postman/blob/master/logo-mark.svg">    
+  <img align="center" alt="Josue-java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Josue-linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Josue-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Josue-jenkins" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
+  <img align="center" alt="Josue-gitlab" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">
+  <img align="center" alt="Josue-jira" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg">
+  <img align="center" alt="Josue-git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="Josue-cucumber" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg">
+  <img align="center" alt="Josue-selenium" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg">
+  <img align="center" alt="Josue-restassured" height="30" width="40" src="https://github.com/rest-assured/rest-assured.github.io/blob/master/img/logo-transparent.png">
+  <img align="center" alt="Josue-junit" height="30" width="40" src="https://github.com/junit-team/junit5/blob/86465f4f491219ad0c0cf9c64eddca7b0edeb86f/assets/img/junit5-logo.svg">
+   <img align="center" alt="Josue-insomnia" height="30" width="40" src="https://github.com/Kong/insomnia-design-assets/blob/master/export/Icon.svg">
+   <img align="center" alt="Josue-postman" height="30" width="40" src="https://github.com/flathub/com.getpostman.Postman/blob/master/logo-mark.svg">    
 
 </div>
   
