@@ -3,7 +3,6 @@
 
 - 🔭 Atualmente trabalho como Analista de Qualidade de Software.
 - 🌱 Estudando JavaScript.
-- 😄 Pronouns: ele/dele
 
 <div style="display: inline_block"><br>
   
