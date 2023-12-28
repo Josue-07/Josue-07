@@ -26,7 +26,7 @@
   <img align="center" alt="Josue-junit" height="30" width="40" src="https://github.com/junit-team/junit5/blob/86465f4f491219ad0c0cf9c64eddca7b0edeb86f/assets/img/junit5-logo.svg">
    <img align="center" alt="Josue-insomnia" height="30" width="40" src="https://github.com/Kong/insomnia-design-assets/blob/master/export/Icon.svg">
    <img align="center" alt="Josue-postman" height="30" width="40" src="https://github.com/flathub/com.getpostman.Postman/blob/master/logo-mark.svg">    
-   <img align="center" alt="Josue-postman" height="40" width="50" src="https://github.com/cypress-io/cypress-icons/blob/master/src/logo/cypress-io-logo-round.png">    
+   <img align="center" alt="Josue-postman" height="35" width="45" src="https://github.com/cypress-io/cypress-icons/blob/master/src/logo/cypress-io-logo-round.png">    
    <img align="center" alt="Josue-postman" height="40" width="50" src="https://github.com/robotframework/visual-identity/blob/master/logo/robot-framework-white.png">    
 
 </div>
