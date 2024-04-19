@@ -2,8 +2,6 @@
 
 
 - 🔭 Atualmente trabalho como Analista de Qualidade de Software.
-- 🌱 Estudando JavaScript.
-
 <div style="display: inline_block"><br>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josue-07&show_icons=true&theme=tokyonight)
@@ -34,7 +32,6 @@
   ---
   
 <div> 
-  <a href = "mailto:josuelima875@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/josu%C3%A9-lima-a6040418a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
