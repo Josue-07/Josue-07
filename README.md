@@ -21,8 +21,7 @@
   <img align="center" alt="Selenium WebDriver" title="Selenium WebDriver" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
   <img align="center" alt="REST Assured" title="REST Assured" height="35" width="40" src="https://github.com/rest-assured/rest-assured.github.io/blob/master/img/logo-transparent.png">
   <img align="center" alt="Cucumber" title="Cucumber" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg">
-  <img align="center" alt="JUnit 5" title="JUnit 5" height="35" width="40" src="<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0e48d814-bd3b-4e0f-90bf-a8c376f2f2c1" />
-">
+  <img align="center" alt="JUnit 5" title="JUnit 5" height="35" width="40" src="https://svgicons.com/icon/26052/junit" />
   <img align="center" alt="Robot Framework" title="Robot Framework" height="35" width="40" src="https://github.com/robotframework/visual-identity/blob/main/logo/robot-framework-white.png">
 </div>
 
