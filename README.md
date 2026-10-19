@@ -30,7 +30,7 @@
 <div style="display: inline_block">
   <img align="center" alt="Cypress" title="Cypress" height="35" width="40" src="https://github.com/cypress-io/cypress-icons/blob/master/src/logo/cypress-io-logo-round.png">
   <img align="center" alt="Playwright" title="Playwright" height="35" width="40" src="https://playwright.dev/img/playwright-logo.svg">
-  <img align="center" alt="Appium" title="Appium" height="35" width="40" src="https://github.com/appium/appium/blob/master/packages/appium/docs/img/logo.png">
+  <img align="center" alt="Appium" title="Appium" height="35" width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/appium.svg">
   <img align="center" alt="Postman" title="Postman" height="35" width="40" src="https://github.com/flathub/com.getpostman.Postman/blob/master/logo-mark.svg">
   <img align="center" alt="Insomnia" title="Insomnia" height="35" width="40" src="https://github.com/Kong/insomnia-design-assets/blob/master/export/Icon.svg">
 </div>
